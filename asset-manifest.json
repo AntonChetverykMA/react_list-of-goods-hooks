@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/(https://AntonChetverykMA.github.io/react_list-of-goods-hooks/)/static/css/main.6c620f9a.chunk.css",
+    "main.js": "/(https://AntonChetverykMA.github.io/react_list-of-goods-hooks/)/static/js/main.4bc9b064.chunk.js",
+    "main.js.map": "/(https://AntonChetverykMA.github.io/react_list-of-goods-hooks/)/static/js/main.4bc9b064.chunk.js.map",
+    "runtime-main.js": "/(https://AntonChetverykMA.github.io/react_list-of-goods-hooks/)/static/js/runtime-main.aaa3745e.js",
+    "runtime-main.js.map": "/(https://AntonChetverykMA.github.io/react_list-of-goods-hooks/)/static/js/runtime-main.aaa3745e.js.map",
+    "static/css/2.d20abe7f.chunk.css": "/(https://AntonChetverykMA.github.io/react_list-of-goods-hooks/)/static/css/2.d20abe7f.chunk.css",
+    "static/js/2.f352e443.chunk.js": "/(https://AntonChetverykMA.github.io/react_list-of-goods-hooks/)/static/js/2.f352e443.chunk.js",
+    "static/js/2.f352e443.chunk.js.map": "/(https://AntonChetverykMA.github.io/react_list-of-goods-hooks/)/static/js/2.f352e443.chunk.js.map",
+    "index.html": "/(https://AntonChetverykMA.github.io/react_list-of-goods-hooks/)/index.html",
+    "static/css/2.d20abe7f.chunk.css.map": "/(https://AntonChetverykMA.github.io/react_list-of-goods-hooks/)/static/css/2.d20abe7f.chunk.css.map",
+    "static/css/main.6c620f9a.chunk.css.map": "/(https://AntonChetverykMA.github.io/react_list-of-goods-hooks/)/static/css/main.6c620f9a.chunk.css.map",
+    "static/js/2.f352e443.chunk.js.LICENSE.txt": "/(https://AntonChetverykMA.github.io/react_list-of-goods-hooks/)/static/js/2.f352e443.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aaa3745e.js",
+    "static/css/2.d20abe7f.chunk.css",
+    "static/js/2.f352e443.chunk.js",
+    "static/css/main.6c620f9a.chunk.css",
+    "static/js/main.4bc9b064.chunk.js"
+  ]
+}
